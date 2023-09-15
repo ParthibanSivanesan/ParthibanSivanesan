@@ -10,7 +10,7 @@ Hi there, I'm Parthiban Sivanesan 👋
 
 😄 Know More About Me...
 
-<a href="https://parthiban-sivanesan-portfolio.netlify.app/" target="_blank"><img align="left" src="https://github.com/ParthibanSivanesan/ParthibanSivanesan/blob/main/images/PS%20Logo.png" alt="icon | LinkedIn" width="30px"/></a>
+<a href="https://parthiban-sivanesan-portfolio.netlify.app/" target="_blank"><img align="left" src="https://github.com/ParthibanSivanesan/ParthibanSivanesan/blob/main/images/PS%20Logo.png" alt="icon | LinkedIn" width="30px"/></a><br>
 
 
 
